@@ -1,0 +1,15 @@
+C:\Users\Dylan\Desktop\Seminario.NET\practica1\practicas\bin\Debug\net8.0\practicas.exe
+C:\Users\Dylan\Desktop\Seminario.NET\practica1\practicas\bin\Debug\net8.0\practicas.deps.json
+C:\Users\Dylan\Desktop\Seminario.NET\practica1\practicas\bin\Debug\net8.0\practicas.runtimeconfig.json
+C:\Users\Dylan\Desktop\Seminario.NET\practica1\practicas\bin\Debug\net8.0\practicas.dll
+C:\Users\Dylan\Desktop\Seminario.NET\practica1\practicas\bin\Debug\net8.0\practicas.pdb
+C:\Users\Dylan\Desktop\Seminario.NET\practica1\practicas\obj\Debug\net8.0\practicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dylan\Desktop\Seminario.NET\practica1\practicas\obj\Debug\net8.0\practicas.AssemblyInfoInputs.cache
+C:\Users\Dylan\Desktop\Seminario.NET\practica1\practicas\obj\Debug\net8.0\practicas.AssemblyInfo.cs
+C:\Users\Dylan\Desktop\Seminario.NET\practica1\practicas\obj\Debug\net8.0\practicas.csproj.CoreCompileInputs.cache
+C:\Users\Dylan\Desktop\Seminario.NET\practica1\practicas\obj\Debug\net8.0\practicas.sourcelink.json
+C:\Users\Dylan\Desktop\Seminario.NET\practica1\practicas\obj\Debug\net8.0\practicas.dll
+C:\Users\Dylan\Desktop\Seminario.NET\practica1\practicas\obj\Debug\net8.0\refint\practicas.dll
+C:\Users\Dylan\Desktop\Seminario.NET\practica1\practicas\obj\Debug\net8.0\practicas.pdb
+C:\Users\Dylan\Desktop\Seminario.NET\practica1\practicas\obj\Debug\net8.0\practicas.genruntimeconfig.cache
+C:\Users\Dylan\Desktop\Seminario.NET\practica1\practicas\obj\Debug\net8.0\ref\practicas.dll
